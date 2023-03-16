@@ -5,6 +5,6 @@ The note about MPAS-A, including framework (log, I/O, communications); dynamics(
 - [x] MPAS_log
 
 ## Doing
-- [x] MPAS_I/O
-- [x] Dynamics
-- [x] Vertical coordinates
+- [ ] MPAS_I/O
+- [ ] Dynamics
+- [ ] Vertical coordinates
